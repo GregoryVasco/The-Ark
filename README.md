@@ -1,2 +1,4 @@
 # The-Ark
-Gameplay designer with a deep love for video games. Focus on level design, gameplay mechanices, game features, and narrative storytelling with Unreal Engine. 
+Gameplay designer with a deep love for video games. Focus on level design, gameplay mechanics, game features, and narrative storytelling with Unreal Engine. 
+
+This was a short solo project that I made using RPG Maker as part of my application to Biola University's Game Design Program. 
